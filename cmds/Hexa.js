@@ -5,7 +5,7 @@ const apiKeysPath = path.join(__dirname, '..', 'json', 'api_config.json');
 const apiKeys = JSON.parse(fs.readFileSync(apiKeysPath));
 const openaiApiKey = apiKeys.openai;
 
-async function Hexa(event, api) {
+async function Ericson(event, api) {
   const configuration = new Configuration({
     apiKey: openaiApiKey,
   });
