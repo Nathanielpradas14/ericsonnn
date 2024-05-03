@@ -51,14 +51,14 @@ figlet.text(
   },
   async (err, data) => {
     if (err) {
-      logError("Error rendering HEXABOT ASCII art.", err);
+      logError("Error rendering ERICSONBOT art.", err);
       return;
     }
 
     console.log(chalk.cyan(data));
-    console.log(chalk.gray("Developed by HEXCLAN | ©️ 2023"));
+    console.log(chalk.gray("Developed by ERICSON | ©️ 2024"));
     console.log(chalk.gray("This bot is not for sale"));
-    console.log(chalk.gray("Repository: https://github.com/0x3EF8/Hexabot"));
+    console.log(chalk.gray("Repository: "));
     console.log();
 
     try {
