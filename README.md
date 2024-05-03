@@ -1,4 +1,4 @@
-# Hexabot - Your Student Assistant Messenger Bot
+# EricsonBot - Your Student Assistant Messenger Bot
 
 Hexabot is a Facebook Messenger bot designed to assist students with various features, including AI-powered responses, file searches, music and video searches, and more. The bot is built using the fca-unofficial library and integrates with APIs to provide a wide range of capabilities.
 
@@ -43,7 +43,7 @@ Contributions are welcome! If you'd like to contribute to Hexabot, please follow
 ## Credits
 
 - The base of this project is built upon [fca-unofficial](https://github.com/VangBanLaNhat/fca-unofficial) library by VangBanLaNhat.
-- Hexabot was developed by Jay Patrick Cano and other Hexclan members.
+- EricsonBot was developed by Ericson Pascua and other blacklimit members.
 
 ## License
 
